@@ -12,13 +12,14 @@ class HomePage extends StatefulWidget {
 class _HomePage extends State<HomePage> {
   List _items = [];
 
+  //get data from json file
   Future<void> readJson() async {
     final String response = await rootBundle.loadString('samples.json');
     final data = await json.decode(response);
     setState(() {
       _items = data["items"];
 
-      print(_items);
+      //print(_items);
     });
   }
 
