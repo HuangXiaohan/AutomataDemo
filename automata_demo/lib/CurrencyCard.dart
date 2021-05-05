@@ -40,7 +40,8 @@ class CurrencyCard extends StatelessWidget {
                             color: Colors.red, size: 20)),
                 TextSpan(
                     text: info["percentage"],
-                    style: TextStyle(color: Colors.white))
+                    style: TextStyle(
+                        color: info["up"] ? Colors.green : Colors.red))
               ]),
             ),
           )
