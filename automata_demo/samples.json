@@ -1,0 +1,190 @@
+{"items": [
+    {   "type": "Cryptos",
+        "infos":[
+            {
+                "name": "BTC",
+                "amount": "9351.30 €",
+                "percentage": "2.17%",
+                "up": true,
+                "color": "0xFFEF9A9A"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+            },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+            {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                "name": "XRP",
+                "amount": "0.75 €",
+                "percentage": "2.17%",
+                "up": false,
+                "color": "0xFFFFCC80"
+            },
+            {
+                "name": "ETH",
+                "amount": "351.30 €",
+                "percentage": "0.17%",
+                "up": true,
+                "color": "0xFF8BC34A"
+            },
+            {
+                "name": "LTC",
+                "amount": "23.90 €",
+                "percentage": "3.17%",
+                "up": false,
+                "color": "0xFF00BCD4"
+            },
+            {
+                "name": "NMC",
+                "amount": "19.60 €",
+                "percentage": "0.9%",
+                "up": false,
+                "color": "0xFFAB47BC"
+            },
+            {
+                "name": "PPC",
+                "amount": "11.20 €",
+                "percentage": "0.3%",
+                "up": true,
+                "color": "0xFF607D8B"
+            }
+        ]
+    },
+    {   "type": "Tokens",
+        "infos":[
+            {
+                "name": "DENT",
+                "amount": "9351.30 €",
+                "percentage": "2.17%",
+                "up": true,
+                "color": "0xFF00BCD4"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+            },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+            {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                "name": "UNI",
+                "amount": "0.75 €",
+                "percentage": "2.17%",
+                "up": false,
+                "color": "0xFFAB47BC"
+            },
+            {
+                "name": "AAVE",
+                "amount": "351.30 €",
+                "percentage": "0.17%",
+                "up": true,
+                "color": "0xFF607D8B"
+            },
+            {
+                "name": "DENT",
+                "amount": "23.90 €",
+                "percentage": "3.17%",
+                "up": false,
+                "color": "0xFFEF9A9A"
+            },
+            {
+                "name": "UNI",
+                "amount": "19.60 €",
+                "percentage": "0.9%",
+                "up": false,
+                "color": "0xFFFFCC80"
+            },
+            {
+                "name": "AAVE",
+                "amount": "11.20 €",
+                "percentage": "0.3%",
+                "up": true,
+                "color": "0xFF8BC34A"
+            }
+            
+        ]
+    },
+    {   "type": "Cryptos",
+        "infos":[
+            {
+                "name": "PPC",
+                "amount": "11.20 €",
+                "percentage": "0.3%",
+                "up": true,
+                "color": "0xFF607D8B"
+            },
+            {
+                "name": "NMC",
+                "amount": "19.60 €",
+                "percentage": "0.9%",
+                "up": false,
+                "color": "0xFFAB47BC"
+            },
+            {
+                "name": "LTC",
+                "amount": "23.90 €",
+                "percentage": "3.17%",
+                "up": false,
+                "color": "0xFF00BCD4"
+            },
+            {
+                "name": "ETH",
+                "amount": "351.30 €",
+                "percentage": "0.17%",
+                "up": true,
+                "color": "0xFF8BC34A"
+            },
+            {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                "name": "XRP",
+                "amount": "0.75 €",
+                "percentage": "2.17%",
+                "up": false,
+                "color": "0xFFFFCC80"
+            },
+            {
+                "name": "BTC",
+                "amount": "9351.30 €",
+                "percentage": "2.17%",
+                "up": true,
+                "color": "0xFFEF9A9A"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+            }
+            
+        ]
+    },
+    {   "type": "Tokens",
+        "infos":[
+            {
+                "name": "AAVE",
+                "amount": "11.20 €",
+                "percentage": "0.3%",
+                "up": true,
+                "color": "0xFF8BC34A"
+            },
+            {
+                "name": "UNI",
+                "amount": "19.60 €",
+                "percentage": "0.9%",
+                "up": false,
+                "color": "0xFFFFCC80"
+            },
+            {
+                "name": "DENT",
+                "amount": "23.90 €",
+                "percentage": "3.17%",
+                "up": false,
+                "color": "0xFFEF9A9A"
+            },
+            {
+                "name": "AAVE",
+                "amount": "351.30 €",
+                "percentage": "0.17%",
+                "up": true,
+                "color": "0xFF607D8B"
+            },                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+            {                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+                "name": "UNI",
+                "amount": "0.75 €",
+                "percentage": "2.17%",
+                "up": false,
+                "color": "0xFFAB47BC"
+            },
+            {
+                "name": "DENT",
+                "amount": "9351.30 €",
+                "percentage": "2.17%",
+                "up": true,
+                "color": "0xFF00BCD4"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+            }
+        ]
+    }
+
+    
+]}
